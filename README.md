@@ -3,6 +3,4 @@
 
 测试代码是否可用
 
-测试redeme-edit。
-
-测试readme-edit-2.
+测试readme-edit-0
